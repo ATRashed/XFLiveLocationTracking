@@ -1,0 +1,17 @@
+*.cache
+*.user
+*.suo
+.suo
+bin
+obj
+.config
+*.v2
+.v2
+.vs
+.vs/
+/SaraUI/node_modules
+/*.zip
+/LiUNAMobile/_ReSharper.Caches
+/LiUNAMobile/.vs
+/LiUNAMobile/.vs/
+/LiUNAMobile/.vs/*
